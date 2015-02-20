@@ -1,0 +1,14 @@
+{
+  "name": "kriget",
+  "version": "0.0.0",
+  "description": "A crawler for Kriget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Bernljung",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "~0.18.0"
+  }
+}
